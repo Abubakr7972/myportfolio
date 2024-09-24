@@ -1,0 +1,94 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./assets/creative.jpg",
+      "title": "Creative",
+      "description": "The tendency to generate or recognize ideas, alternatives, or possibilities that may be useful in solving problems, communicating with others, and entertaining ourselves and others."
+    },
+    {
+      "id": "2",
+      "src": "./assets/leadership.png",
+      "title": "Leadership",
+      "description": "I possess strong communication skills, emotional intelligence, and a commitment to personal and team development, ensuring success while cultivating a positive and inclusive environment."
+    },
+    {
+      "id": "3",
+      "src": "./assets/critical.jpg",
+      "title": "Critical Thinking",
+      "description": "I possess strong critical thinking skills, allowing me to analyze information and arguments effectively. I am adept at questioning assumptions and recognizing biases, which enables me to consider multiple perspectives."
+    },
+    {
+      "id": "4",
+      "src": "./assets/teamwork.avif",
+      "title": "Teamwork",
+      "description": "I thrive in collaborative environments, where I effectively contribute to group projects by sharing ideas and supporting my colleagues. My ability to communicate openly and listen actively fosters a positive team dynamic."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./assets/flap.webp",
+      "title": "Flappy bird",
+      "description": "Flappy Bird is an engaging and addictive arcade-style game where players control a small bird on a quest to navigate through a series of challenging obstacles. With simple tap-to-flap mechanics, players must time their flaps perfectly.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./assets/loginpage.avif",
+      "title": "Login Page",
+      "description": "This animated login page offers a modern and visually appealing experience for users. Featuring smooth transitions and engaging animations, the design enhances user interaction while maintaining simplicity and functionality.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./assets/resta.avif",
+      "title": "Obod restaurant",
+      "description": "This responsive restaurant website provides an elegant and user-friendly interface, designed to showcase the restaurant’s menu, ambiance, and unique offerings. Featuring a sleek layout that adapts seamlessly to various devices, ",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./assets/women.png",
+      "description": "I just visited the Azz Kabab Center website, and I was really impressed! The layout is clean and modern, making it super easy to find what I was looking for. The kabab pictures look amazing, and I appreciate the detailed descriptions of each dish. ",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./assets/men.png",
+      "description": "The design is really eye-catching, and I loved how easy it was to navigate. I found the menu quickly and loved the kabab photos—they made me hungry! It’s great to have all the information in one place, especially the online ordering feature. ",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./assets/boy.png",
+      "description": "The user interface is intuitively designed, allowing for seamless navigation through the various sections. I particularly appreciated the detailed descriptions accompanying each kabab, which helped me understand the unique flavors and ingredients.",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
